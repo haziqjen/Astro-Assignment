@@ -11,7 +11,6 @@ This project is an assessment developed using Flutter with Dart language. This a
 <img src="https://raw.githubusercontent.com/haziqjen/Astro-Assignment/master/sample/image1.png" width="180" height="433">
 <img src="https://raw.githubusercontent.com/haziqjen/Astro-Assignment/master/sample/image2.png" width="180" height="433">
 <img src="https://raw.githubusercontent.com/haziqjen/Astro-Assignment/master/sample/image3.png" width="180" height="433">
-<img src="https://raw.githubusercontent.com/haziqjen/Astro-Assignment/master/sample/image4.png" width="180" height="433">
 <img src="https://raw.githubusercontent.com/haziqjen/Astro-Assignment/master/sample/image5.png" width="180" height="433">
 </p>
 
