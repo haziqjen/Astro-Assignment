@@ -7,7 +7,7 @@ Flutter Assignment from Astro by Haziq Shukor
 
 This project is an assessment developed using Flutter with Dart language. This apps also built with sound null safety with the latest Flutter and Dart SDK
 
-![](sample/image1.png) ![](sample/image2.png) ![](sample/image3.png) ![](sample/image4.png) ![](sample/image5.png)
+![](sample/image1.png =180x433) ![](sample/image2.png=180x433) ![](sample/image3.png=180x433) ![](sample/image4.png=180x433) ![](sample/image5.png=180x433)
 
 [Download APK sample here](sample/)
 
