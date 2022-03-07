@@ -7,11 +7,13 @@ Flutter Assignment from Astro by Haziq Shukor
 
 This project is an assessment developed using Flutter with Dart language. This apps also built with sound null safety with the latest Flutter and Dart SDK
 
+<p float="left">
 <img src="https://raw.githubusercontent.com/haziqjen/Astro-Assignment/master/sample/image1.png" width="180" height="433">
 <img src="https://raw.githubusercontent.com/haziqjen/Astro-Assignment/master/sample/image2.png" width="180" height="433">
 <img src="https://raw.githubusercontent.com/haziqjen/Astro-Assignment/master/sample/image3.png" width="180" height="433">
 <img src="https://raw.githubusercontent.com/haziqjen/Astro-Assignment/master/sample/image4.png" width="180" height="433">
 <img src="https://raw.githubusercontent.com/haziqjen/Astro-Assignment/master/sample/image5.png" width="180" height="433">
+</p>
 
 [Download APK sample here](sample/)
 
