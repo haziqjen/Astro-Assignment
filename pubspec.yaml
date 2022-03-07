@@ -36,6 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   bloc: ^8.0.2
   flutter_bloc: ^8.0.1
+  bloc_test: ^9.0.3
   equatable: ^2.0.3
   shimmer: ^2.0.0
   animate_do: ^2.1.0
@@ -45,7 +46,9 @@ dependencies:
   google_fonts: ^2.3.1
   cached_network_image: ^3.2.0
   fraction: ^4.0.1
-  dio_http_cache: ^0.3.0
+  dio_cache_interceptor: ^3.2.6
+  mocktail: ^0.3.0
+
 
 
 dev_dependencies:
@@ -73,6 +76,13 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
      - assets/lottie/into_screen.json
+     - assets/seeders/response_error.json
+     - assets/seeders/food_category.json
+     - assets/seeders/beverage_category.json
+     - assets/seeders/food_menu.json
+     - assets/seeders/beverage_menu.json
+     - assets/seeders/food_detail.json
+     - assets/seeders/beverage_detail.json
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

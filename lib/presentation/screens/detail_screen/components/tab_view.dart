@@ -122,11 +122,11 @@ class _DetailTabViewState extends State<DetailTabView>
                 ),
                 Center(
                   child: Text(
-                    'Buy Now',
-                    style: TextStyle(
-                      fontSize: 25,
-                      fontWeight: FontWeight.w600,
-                    ),
+                    'Coming soon!',
+                    style: GoogleFonts.montserrat(
+                        color: Colors.black,
+                        fontSize: size.height * 0.02,
+                        fontWeight: FontWeight.w400),
                   ),
                 ),
               ],
